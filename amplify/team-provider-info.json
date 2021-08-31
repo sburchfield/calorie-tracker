@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-calorietracker-dev-140500-authRole",
+      "UnauthRoleArn": "arn:aws:iam::799484721824:role/amplify-calorietracker-dev-140500-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::799484721824:role/amplify-calorietracker-dev-140500-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-calorietracker-dev-140500-deployment",
+      "UnauthRoleName": "amplify-calorietracker-dev-140500-unauthRole",
+      "StackName": "amplify-calorietracker-dev-140500",
+      "StackId": "arn:aws:cloudformation:us-east-1:799484721824:stack/amplify-calorietracker-dev-140500/f9fc6a80-0a85-11ec-b055-12791ed2cd8b",
+      "AmplifyAppId": "d8eje6nww3h3l"
+    },
+    "categories": {
+      "auth": {
+        "calorietrackera36205ad": {}
+      }
+    }
+  }
+}
