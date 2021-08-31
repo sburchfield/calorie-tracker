@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "calorietrackera36205ad": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
